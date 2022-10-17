@@ -1,7 +1,4 @@
-    
-
-    
-    //method to get all data
+//method to get all data
     function allData(){
             
         table.innerHTML = ``
